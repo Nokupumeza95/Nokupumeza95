@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on advancing my skills.
 - 🌱 I’m currently learning python.
-- 👯 I’m looking to collaborate on the bootcamp.
 - 💬 I am a BI Developer and I am also quite impressive in the kitchen.
 - 📫 How to reach me: You can reach me on my Linkedin: Nokupumeza Zoki or via email: pumezaz@gmail.com
 - ⚡ Fun fact: I am always tired yet I get things done.
